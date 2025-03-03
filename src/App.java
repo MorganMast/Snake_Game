@@ -1,7 +1,7 @@
 import javax.swing.*;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int frameWidth = 1200;
         int frameHeight = 1200;
 
